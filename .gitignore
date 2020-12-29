@@ -1,2 +1,5 @@
-# IDE specifi files
+# IDE files
 .vscode
+
+# GloVe files
+GloVe/
